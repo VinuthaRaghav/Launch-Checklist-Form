@@ -78,8 +78,7 @@ window.addEventListener("load", function(){
 
 })
 function preventDefault(){
-        console.log("Welcome to Raghav")
-      
+             
        let pilotName = document.querySelector('[name="pilotName"]').value
        let coPilotName = document.querySelector("[name='copilotName']").value
        let fuelLevel = document.querySelector("[name='fuelLevel']").value
